@@ -1,4 +1,4 @@
-FROM fedora:28
+FROM fedora:27
 
 # https://docs.projectatomic.io/container-best-practices/#_labels
 # https://github.com/projectatomic/ContainerApplicationGenericLabels
